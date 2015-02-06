@@ -34,9 +34,9 @@ require_once ('constant.inc.php');
 // var_dump(get_include_path());
 //******************************* Meta tags *******************************************
 global $_meta;
-$_meta['_title'] = "Bacha Khucha: List-Sell-Give";
-$_meta['_keywords']  = "online, auctions, charity, donations, donate, buy, used items for sale,charitable organizations, charity";
-$_meta['_description']  = "Bacha khucha .com is an online auction forum that allows users to donate items they no longer need or use and choose which charity will receive proceeds from the sale.";
+$_meta['_title'] = "Website meta title";
+$_meta['_keywords']  = "website, dotsquares, meta, keywords";
+$_meta['_description']  = "This is the website developed by dotsquares ";
 
 //********************************* include Necessray files ****************************//
 // require_once(INCLUDE_DIR."/functions.inc.php");
